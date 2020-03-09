@@ -1,7 +1,7 @@
 {
   "goals": [
     {
-      "name": "Eat 100 kebabs",
+      "name": "Eat 100 kebabs 🥙🥙🥙",
       "type": "COMPLETE_N_ITEMS",
       "data": {
         "itemCountToComplete": 100,
