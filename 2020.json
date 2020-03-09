@@ -1,35 +1,35 @@
 {
   "goals": [
     {
-      "name": "Eat 100 kebabs 🥙🥙🥙",
+      "name": "Eat 100 kebabs 🥙",
       "type": "COMPLETE_N_ITEMS",
       "data": {
         "itemCountToComplete": 100,
-        "completedItems": [
-          { "title": "Mekan Döner", "date": "2020-01-02" },
-          { "title": "Šeškinės bistro", "date": "2020-01-06" },
-          { "title": "Mekan Döner", "date": "2020-01-09" },
-          { "title": "Simonos kebabai (Šeškine)", "date": "2020-01-14" },
-          { "title": "Mekan Döner", "date": "2020-01-16" },
-          { "title": "Wraperia", "date": "2020-01-18" },
-          { "title": "Jammi", "date": "2020-01-20" },
-          { "title": "Mekan Döner", "date": "2020-01-23" },
-          { "title": "Emilio kebabai", "date": "2020-01-28" },
-          { "title": "Mekan Döner", "date": "2020-01-30" },
-          { "title": "Kebab inn", "date": "2020-02-04" },
-          { "title": "Doner house", "date": "2020-02-05" },
-          { "title": "Mekan Döner", "date": "2020-02-06" },
-          { "title": "Kebab station", "date": "2020-02-10" },
-          { "title": "Kebab inn", "date": "2020-02-11" },
-          { "title": "Mekan Döner", "date": "2020-02-13" },
-          { "title": "EGE kebab", "date": "2020-02-17" },
-          { "title": "Mekan Döner", "date": "2020-02-20" },
-          { "title": "Jammi", "date": "2020-02-24" },
-          { "title": "Mekan Döner", "date": "2020-02-27" },
-          { "title": "Pamukkale kebab house", "date": "2020-03-02" },
-          { "title": "Mekan Döner", "date": "2020-03-05" },
-          { "title": "Doner house", "date": "2020-03-09" },
-          { "title": "Kebab inn", "date": "2020-03-09" }
+        "entries": [
+          { "value": "Mekan Döner", "date": "2020-01-02" },
+          { "value": "Šeškinės bistro", "date": "2020-01-06" },
+          { "value": "Mekan Döner", "date": "2020-01-09" },
+          { "value": "Simonos kebabai (Šeškine)", "date": "2020-01-14" },
+          { "value": "Mekan Döner", "date": "2020-01-16" },
+          { "value": "Wraperia", "date": "2020-01-18" },
+          { "value": "Jammi", "date": "2020-01-20" },
+          { "value": "Mekan Döner", "date": "2020-01-23" },
+          { "value": "Emilio kebabai", "date": "2020-01-28" },
+          { "value": "Mekan Döner", "date": "2020-01-30" },
+          { "value": "Kebab inn", "date": "2020-02-04" },
+          { "value": "Doner house", "date": "2020-02-05" },
+          { "value": "Mekan Döner", "date": "2020-02-06" },
+          { "value": "Kebab station", "date": "2020-02-10" },
+          { "value": "Kebab inn", "date": "2020-02-11" },
+          { "value": "Mekan Döner", "date": "2020-02-13" },
+          { "value": "EGE kebab", "date": "2020-02-17" },
+          { "value": "Mekan Döner", "date": "2020-02-20" },
+          { "value": "Jammi", "date": "2020-02-24" },
+          { "value": "Mekan Döner", "date": "2020-02-27" },
+          { "value": "Pamukkale kebab house", "date": "2020-03-02" },
+          { "value": "Mekan Döner", "date": "2020-03-05" },
+          { "value": "Doner house", "date": "2020-03-09" },
+          { "value": "Kebab inn", "date": "2020-03-09" }
         ]
       }
     }
