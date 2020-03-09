@@ -35,7 +35,7 @@
     },
     {
       "name": "Lose weight 90.6 -> 85",
-      "type": "REACT_NUMBER",
+      "type": "REACH_NUMBER",
       "data": {
         "from": 90.6,
         "to": 85.0,
