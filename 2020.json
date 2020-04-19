@@ -39,7 +39,8 @@
           { "value": "Tarbushi bistro", "date": "2020-04-06" },
           { "value": "Fabu kebabai", "date": "2020-04-09" },
           { "value": "Tarbushi bistro", "date": "2020-04-14" },
-          { "value": "Fabu kebabai", "date": "2020-04-16" }
+          { "value": "Fabu kebabai", "date": "2020-04-16" },
+          { "value": "Dogano kebabai", "date": "2020-04-16" }
         ]
       }
     },
@@ -49,7 +50,10 @@
       "data": {
         "from": 90.6,
         "to": 85.0,
-        "entries": [{ "value": 90.6, "date": "2020-03-09" }, { "value": 92.6, "date": "2020-04-14" }]
+        "entries": [
+          { "value": 90.6, "date": "2020-03-09" },
+          { "value": 92.6, "date": "2020-04-14" }
+        ]
       }
     }
   ]
