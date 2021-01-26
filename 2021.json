@@ -1,0 +1,14 @@
+goals": [
+    {
+      "name": "Eat 1,000,000,000 kebabs 🥙",
+      "type": "COMPLETE_N_ITEMS",
+      "data": {
+        "itemCountToComplete": 1000000000
+        "entries": [
+          { "value": "Alyva", "date": "2021-01-07" },
+          { "value": "LE KEBAB", "date": "2021-01-14" },
+          { "value": "LE KEBAB", "date": "2021-01-21" }
+        ]
+      }
+    }
+]
