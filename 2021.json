@@ -1,6 +1,15 @@
 {
   "title": "2021 Goals",
   "goals": [
+        {
+      "name": "Try out kebab from every municipality 🥙",
+      "type": "COVER_MAP",
+      "data": {
+        "mapUrl": "https://raw.githubusercontent.com/dovydasvenckus/svg/main/lithuania-municipality-map/map.svg",
+        "entries": [
+        ]
+      }
+    },
     {
       "name": "Eat 1,000,000,000 kebabs 🥙",
       "type": "COMPLETE_N_ITEMS",
