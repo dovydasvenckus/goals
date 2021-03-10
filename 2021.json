@@ -24,7 +24,8 @@
           { "value": "Mangal Men", "date": "2021-02-11" },
           { "value": "Kebab & Curry", "date": "2021-02-18" },
           { "value": "Mangal Men", "date": "2021-02-15" },
-          { "value": "LE KEBAB", "date": "2021-03-04" }
+          { "value": "LE KEBAB", "date": "2021-03-04" },
+          { "value": "Jammi", "date": "2021-03-10" }
         ]
       }
     },
@@ -41,7 +42,8 @@
           { "value": 95.5, "date": "2021-02-08" },
           { "value": 95.25, "date": "2021-02-15" },
           { "value": 92.5, "date": "2021-02-25" },
-          { "value": 91.75, "date": "2021-03-04" }
+          { "value": 91.75, "date": "2021-03-04" },
+          { "value": 92, "date": "2021-03-04" }
         ]
       }
     }
