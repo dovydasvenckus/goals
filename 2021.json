@@ -29,7 +29,8 @@
           { "value": "Sofik Kebab", "date": "2021-03-18" },
           { "value": "Mekan Döner", "date": "2021-03-25" },
           { "value": "Le Kebab", "date": "2021-04-01" },
-          { "value": "Le Kebab", "date": "2021-04-08" }
+          { "value": "Le Kebab", "date": "2021-04-08" },
+          { "value": "Le Kebab", "date": "2021-04-15" }
         ]
       }
     },
@@ -51,7 +52,8 @@
           { "value": 93, "date": "2021-03-22" },
           { "value": 91.25, "date": "2021-03-25" },
           { "value": 92.5, "date": "2021-04-02" },
-          { "value": 91.85, "date": "2021-04-08" }
+          { "value": 91.85, "date": "2021-04-08" },
+          { "value": 91.1, "date": "2021-04-15" }
         ]
       }
     }
