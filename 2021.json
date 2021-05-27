@@ -34,7 +34,9 @@
           { "value": "Kebab & Curry", "date": "2021-04-16" },
           { "value": "Wraperia", "date": "2021-04-22" },
           { "value": "Le Kebab", "date": "2021-04-29" },
-          { "value": "Wraperia", "date": "2021-05-06" }
+          { "value": "Wraperia", "date": "2021-05-06" },
+          { "value": "Le Kebab", "date": "2021-05-07"},
+          { "value": "Jammi", "date": "2021-05-27"},
         ]
       }
     },
@@ -60,7 +62,8 @@
           { "value": 91.1, "date": "2021-04-15" },
           { "value": 91.4, "date": "2021-04-23" },
           { "value": 90.65, "date": "2021-04-29" },
-          { "value": 90.35, "date": "2021-05-07" }
+          { "value": 90.35, "date": "2021-05-07" },
+          { "value": 90.5, "date": "2021-05-14" }
         ]
       }
     }
