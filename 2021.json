@@ -37,7 +37,8 @@
           { "value": "Wraperia", "date": "2021-05-06" },
           { "value": "Le Kebab", "date": "2021-05-07"},
           { "value": "Jammi", "date": "2021-05-27"},
-          { "value": "Mangal Men", "date": "2021-06-03"}
+          { "value": "Mangal Men", "date": "2021-06-03"},
+          { "value": "Mekan Döner", "date": "2021-06-10"}
         ]
       }
     },
@@ -66,7 +67,8 @@
           { "value": 90.35, "date": "2021-05-07" },
           { "value": 90.5, "date": "2021-05-14" },
           { "value": 90.65, "date": "2021-05-28" },
-          { "value": 90, "date": "2021-06-04" }
+          { "value": 90, "date": "2021-06-04" },
+          { "value": 89.9, "date": "2021-06-13" }
         ]
       }
     }
