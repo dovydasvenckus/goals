@@ -50,7 +50,8 @@
           { "value": "Le Kebab", "date": "2021-08-02"},
           { "value": "Jammi", "date": "2021-08-12"},
           { "value": "Mangal Men", "date": "2021-08-14"},
-          { "value": "Mangal Men", "date": "2021-08-19"}
+          { "value": "Mangal Men", "date": "2021-08-19"},
+          { "value": "u Szwagra", "date": "2021-08-27"}
         ]
       }
     },
@@ -87,7 +88,7 @@
           { "value": 93, "date": "2021-07-21" },
           { "value": 91.25, "date": "2021-07-29" },
           { "value": 91.85, "date": "2021-08-12" },
-          { "value": 91.1, "date": "2021-08-19" }
+          { "value": 91.8, "date": "2021-08-30" }
         ]
       }
     }
