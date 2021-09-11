@@ -53,7 +53,8 @@
           { "value": "Mangal Men", "date": "2021-08-19"},
           { "value": "u Szwagra", "date": "2021-08-27"},
           { "value": "Azerai", "date": "2021-08-29"},
-          { "value": "Le Kebab", "date": "2021-09-02"}
+          { "value": "Le Kebab", "date": "2021-09-02"},
+          { "value": "AlaTurka", "date": "2021-09-09"}
         ]
       }
     },
@@ -91,7 +92,8 @@
           { "value": 91.25, "date": "2021-07-29" },
           { "value": 91.85, "date": "2021-08-12" },
           { "value": 91.8, "date": "2021-08-30" },
-          { "value": 91.8, "date": "2021-09-02" }
+          { "value": 91.8, "date": "2021-09-02" },
+          { "value": 90.8, "date": "2021-09-09" }
         ]
       }
     }
