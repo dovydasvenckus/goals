@@ -54,7 +54,8 @@
           { "value": "u Szwagra", "date": "2021-08-27"},
           { "value": "Azerai", "date": "2021-08-29"},
           { "value": "Le Kebab", "date": "2021-09-02"},
-          { "value": "AlaTurka", "date": "2021-09-09"}
+          { "value": "AlaTurka", "date": "2021-09-09"},
+          { "value": "Wraperia", "date": "2021-09-16"}
         ]
       }
     },
@@ -93,7 +94,8 @@
           { "value": 91.85, "date": "2021-08-12" },
           { "value": 91.8, "date": "2021-08-30" },
           { "value": 91.8, "date": "2021-09-02" },
-          { "value": 90.8, "date": "2021-09-09" }
+          { "value": 90.8, "date": "2021-09-09" },
+          { "value": 91.2, "date": "2021-09-16" }
         ]
       }
     }
