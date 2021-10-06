@@ -55,7 +55,9 @@
           { "value": "Azerai", "date": "2021-08-29"},
           { "value": "Le Kebab", "date": "2021-09-02"},
           { "value": "AlaTurka", "date": "2021-09-09"},
-          { "value": "Wraperia", "date": "2021-09-16"}
+          { "value": "Wraperia", "date": "2021-09-16"},
+          { "value": "Alyva", "date": "2021-09-23"},
+          { "value": "B.I.G. kebabai", "date": "2021-09-30"}
         ]
       }
     },
@@ -95,7 +97,8 @@
           { "value": 91.8, "date": "2021-08-30" },
           { "value": 91.8, "date": "2021-09-02" },
           { "value": 90.8, "date": "2021-09-09" },
-          { "value": 91.2, "date": "2021-09-16" }
+          { "value": 91.2, "date": "2021-09-16" },
+          { "value": 89.5, "date": "2021-10-06" }
         ]
       }
     }
