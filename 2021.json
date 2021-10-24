@@ -62,7 +62,8 @@
           { "value": "Le Kebab", "date": "2021-10-07"},
           { "value": "Kebab Station", "date": "2021-10-12"},
           { "value": "Kebab Station", "date": "2021-10-19"},
-          { "value": "Wraperia", "date": "2021-10-21"}
+          { "value": "Wraperia", "date": "2021-10-21"},
+          { "value": "Mangal Men", "date": "2021-10-24"}
         ]
       }
     },
@@ -103,7 +104,8 @@
           { "value": 91.8, "date": "2021-09-02" },
           { "value": 90.8, "date": "2021-09-09" },
           { "value": 91.2, "date": "2021-09-16" },
-          { "value": 89.5, "date": "2021-10-06" }
+          { "value": 89.5, "date": "2021-10-06" },
+          { "value": 89.3, "date": "2021-10-24" }
         ]
       }
     }
