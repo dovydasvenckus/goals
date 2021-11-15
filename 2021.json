@@ -63,7 +63,12 @@
           { "value": "Kebab Station", "date": "2021-10-12"},
           { "value": "Kebab Station", "date": "2021-10-19"},
           { "value": "Wraperia", "date": "2021-10-21"},
-          { "value": "Mangal Men", "date": "2021-10-24"}
+          { "value": "Mangal Men", "date": "2021-10-24"},
+          { "value": "Emilio užkandinė & kebabai", "date": "2021-10-28"},
+          { "value": "Wraperia", "date": "2021-11-04"},
+          { "value": "Mekan Döner", "date": "2021-11-11"},
+          { "value": "Doner House", "date": "2021-11-15"}
+          
         ]
       }
     },
@@ -105,7 +110,8 @@
           { "value": 90.8, "date": "2021-09-09" },
           { "value": 91.2, "date": "2021-09-16" },
           { "value": 89.5, "date": "2021-10-06" },
-          { "value": 89.3, "date": "2021-10-24" }
+          { "value": 89.3, "date": "2021-10-24" },
+          { "value": 88.0, "date": "2021-11-12" }
         ]
       }
     }
