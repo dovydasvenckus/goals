@@ -70,7 +70,8 @@
           { "value": "Doner House", "date": "2021-11-15"},
           { "value": "Mangal Men", "date": "2021-11-16"},
           { "value": "Sinano", "date": "2021-11-17"},
-          { "value": "Emilio užkandinė & kebabai", "date": "2021-11-18"}
+          { "value": "Emilio užkandinė & kebabai", "date": "2021-11-18"},
+          { "value": "Sinano", "date": "2021-11-25"}
           
         ]
       }
@@ -114,7 +115,8 @@
           { "value": 91.2, "date": "2021-09-16" },
           { "value": 89.5, "date": "2021-10-06" },
           { "value": 89.3, "date": "2021-10-24" },
-          { "value": 88.0, "date": "2021-11-12" }
+          { "value": 88.0, "date": "2021-11-12" },
+          { "value": 86.6, "date": "2021-11-25" }
         ]
       }
     }
