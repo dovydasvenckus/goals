@@ -11,6 +11,17 @@
       }
     },
     {
+      "name": "Eat 1,000,000,000 kebabs 🥙",
+      "type": "COMPLETE_N_ITEMS",
+      "data": {
+        "itemCountToComplete": 1000000000,
+        "entries": [
+          { "value": "Mekan Döner", "date": "2022-01-06" },
+          { "value": "Kebappa", "date": "2022-01-12" }
+        ]
+      }
+    },
+    {
       "name": "Lose weight 97 -> 85",
       "type": "REACH_NUMBER",
       "data": {
