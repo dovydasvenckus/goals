@@ -23,7 +23,8 @@
           { "value": "Sinano", "date": "2022-01-27" },
           { "value": "Jammi", "date": "2022-02-03" },
           { "value": "Liulia Wagon", "date": "2022-02-07" },
-          { "value": "Mangal Men", "date": "2022-02-10" }
+          { "value": "Mangal Men", "date": "2022-02-10" },
+          { "value": "Kebappa", "date": "2022-02-15" }
         ]
       }
     },
@@ -37,7 +38,8 @@
           { "value": 87.0, "date": "2021-12-23" },
           { "value": 86.5, "date": "2022-01-12" },
           { "value": 85.8, "date": "2022-01-29" },
-          { "value": 84.6, "date": "2022-02-10" }
+          { "value": 84.6, "date": "2022-02-10" },
+          { "value": 84.0, "date": "2022-02-10" }
         ]
       }
     }
