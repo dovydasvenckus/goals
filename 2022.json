@@ -26,7 +26,10 @@
           { "value": "Mangal Men", "date": "2022-02-10" },
           { "value": "Kebappa", "date": "2022-02-15" },
           { "value": "Mekan Döner", "date": "2022-02-24" },
-          { "value": "Tarbushi Bistro", "date": "2022-03-03" }
+          { "value": "Tarbushi Bistro", "date": "2022-03-03" },
+          { "value": "Jammi", "date": "2022-02-10" },
+          { "value": "Sinano", "date": "2022-02-14" },
+          { "value": "Le Kebab", "date": "2022-02-22" }
         ]
       }
     },
