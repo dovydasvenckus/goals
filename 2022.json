@@ -27,9 +27,10 @@
           { "value": "Kebappa", "date": "2022-02-15" },
           { "value": "Mekan Döner", "date": "2022-02-24" },
           { "value": "Tarbushi Bistro", "date": "2022-03-03" },
-          { "value": "Jammi", "date": "2022-02-10" },
-          { "value": "Sinano", "date": "2022-02-14" },
-          { "value": "Le Kebab", "date": "2022-02-22" }
+          { "value": "Jammi", "date": "2022-03-10" },
+          { "value": "Sinano", "date": "2022-03-14" },
+          { "value": "Le Kebab", "date": "2022-03-22" },
+          { "value": "Kebappa", "date": "2022-03-31" }
         ]
       }
     },
@@ -45,7 +46,8 @@
           { "value": 85.8, "date": "2022-01-29" },
           { "value": 84.6, "date": "2022-02-10" },
           { "value": 84.0, "date": "2022-02-10" },
-          { "value": 84.6, "date": "2022-03-03" }
+          { "value": 84.6, "date": "2022-03-03" },
+          { "value": 85.2, "date": "2022-03-30" }
         ]
       }
     }
