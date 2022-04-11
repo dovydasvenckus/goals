@@ -30,7 +30,8 @@
           { "value": "Jammi", "date": "2022-03-10" },
           { "value": "Sinano", "date": "2022-03-14" },
           { "value": "Le Kebab", "date": "2022-03-22" },
-          { "value": "Kebappa", "date": "2022-03-31" }
+          { "value": "Kebappa", "date": "2022-03-31" },
+          { "value": "Mangal Men", "date": "2022-04-07" }
         ]
       }
     },
@@ -47,7 +48,8 @@
           { "value": 84.6, "date": "2022-02-10" },
           { "value": 84.0, "date": "2022-02-10" },
           { "value": 84.6, "date": "2022-03-03" },
-          { "value": 85.2, "date": "2022-03-30" }
+          { "value": 85.2, "date": "2022-03-30" },
+          { "value": 84.6, "date": "2022-04-11" }
         ]
       }
     }
