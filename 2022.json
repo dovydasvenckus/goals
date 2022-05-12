@@ -36,7 +36,10 @@
           { "value": "Kebabai1771", "date": "2022-04-13" },
           { "value": "Sinano", "date": "2022-04-19" },
           { "value": "Emilio kebabai", "date": "2022-04-21" },
-          { "value": "Mekan Döner", "date": "2022-04-26" }
+          { "value": "Mekan Döner", "date": "2022-04-26" },
+          { "value": "Wraperia", "date": "2022-04-28" },
+          { "value": "Wraperia", "date": "2022-05-05" },
+          { "value": "Kebappa", "date": "2022-05-12" }
         ]
       }
     },
@@ -54,7 +57,9 @@
           { "value": 84.0, "date": "2022-02-10" },
           { "value": 84.6, "date": "2022-03-03" },
           { "value": 85.2, "date": "2022-03-30" },
-          { "value": 84.6, "date": "2022-04-11" }
+          { "value": 84.6, "date": "2022-04-11" },
+          { "value": 86.0, "date": "2022-04-28" },
+          { "value": 84.7, "date": "2022-05-12" }
         ]
       }
     }
