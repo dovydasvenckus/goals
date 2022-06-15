@@ -41,7 +41,9 @@
           { "value": "Wraperia", "date": "2022-05-05" },
           { "value": "Kebappa", "date": "2022-05-12" },
           { "value": "Mekan Döner", "date": "2022-05-26" },
-          { "value": "Tarbushi Bistro", "date": "2022-06-02" }
+          { "value": "Tarbushi Bistro", "date": "2022-06-02" },
+          { "value": "Jammi", "date": "2022-06-09" },
+          { "value": "1771", "date": "2022-06-15" }
         ]
       }
     },
@@ -62,7 +64,8 @@
           { "value": 84.6, "date": "2022-04-11" },
           { "value": 86.0, "date": "2022-04-28" },
           { "value": 84.7, "date": "2022-05-12" },
-          { "value": 84.5, "date": "2022-06-02" }
+          { "value": 84.5, "date": "2022-06-02" },
+          { "value": 84.5, "date": "2022-06-15" }
         ]
       }
     }
