@@ -51,7 +51,8 @@
           { "value": "Mangal Men", "date": "2022-08-04" },
           { "value": "Mangal Men", "date": "2022-08-11" },
           { "value": "Mangal Men", "date": "2022-08-18" },
-          { "value": "Kebab Inn", "date": "2022-08-25" }
+          { "value": "Kebab Inn", "date": "2022-08-25" },
+          { "value": "Tarbushi Bistro", "date": "2022-08-25" }
         ]
       }
     },
@@ -79,7 +80,8 @@
           { "value": 84.2, "date": "2022-08-04" },
           { "value": 84.0, "date": "2022-08-11" },
           { "value": 83.5, "date": "2022-08-18" },
-          { "value": 84.5, "date": "2022-08-25" }
+          { "value": 84.5, "date": "2022-08-25" },
+          { "value": 84.0, "date": "2022-09-01" }
         ]
       }
     }
