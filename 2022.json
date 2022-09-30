@@ -54,7 +54,8 @@
           { "value": "Kebab Inn", "date": "2022-08-25" },
           { "value": "Tarbushi Bistro", "date": "2022-08-25" },
           { "value": "Jammi", "date": "2022-09-08" },
-          { "value": "Jammi", "date": "2022-09-15" }
+          { "value": "Wraperia", "date": "2022-09-15" },
+          { "value": "Wraperia", "date": "2022-09-29" }
         ]
       }
     },
@@ -86,7 +87,8 @@
           { "value": 84.0, "date": "2022-09-01" },
           { "value": 82.9, "date": "2022-09-08" },
           { "value": 83.2, "date": "2022-09-15" },
-          { "value": 82.5, "date": "2022-09-22" }
+          { "value": 82.5, "date": "2022-09-22" },
+          { "value": 82.2, "date": "2022-09-29" }
         ]
       }
     }
