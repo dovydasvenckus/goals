@@ -33,7 +33,7 @@
           { "value": "Emilio kebabai", "date": "2022-03-24" },
           { "value": "Kebappa", "date": "2022-03-31" },
           { "value": "Mangal Men", "date": "2022-04-07" },
-          { "value": "Kebabai1771", "date": "2022-04-13" },
+          { "value": "1771", "date": "2022-04-13" },
           { "value": "Sinano", "date": "2022-04-19" },
           { "value": "Emilio kebabai", "date": "2022-04-21" },
           { "value": "Mekan Döner", "date": "2022-04-26" },
@@ -62,7 +62,8 @@
           { "value": "Wrap House", "date": "2022-11-03" },
           { "value": "Emilio kebabai", "date": "2022-11-10" },
           { "value": "Wraperia", "date": "2022-11-17" },
-          { "value": "1771", "date": "2022-11-24" }
+          { "value": "1771", "date": "2022-11-24" },
+          { "value": "Kebab & Curry", "date": "2022-11-24" }
         ]
       }
     },
