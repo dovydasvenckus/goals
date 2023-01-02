@@ -12,7 +12,7 @@
       }
     },
     {
-      "name": "Lose weight 80 -> 78",
+      "name": "Lose weight 80 -> 77",
       "type": "REACH_NUMBER",
       "data": {
         "from": 80,
