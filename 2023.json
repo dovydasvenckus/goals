@@ -1,5 +1,5 @@
 {
-  "title": "2022 Goals",
+  "title": "2023 Goals",
   "goals": [
     {
       "name": "Eat 1,000,000,000 kebabs 🥙",
@@ -16,9 +16,9 @@
       "type": "REACH_NUMBER",
       "data": {
         "from": 80,
-        "to": 78,
+        "to": 77,
         "entries": [
-          { "value": 80.1, "date": "2023-01-02" },
+          { "value": 80.1, "date": "2023-01-02" }
         ]
       }
     }
