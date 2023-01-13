@@ -7,7 +7,8 @@
       "data": {
         "itemCountToComplete": 1000000000,
         "entries": [
-        
+          { "value": "Mangal Men", "date": "2023-01-05" },
+          { "value": "1771", "date": "2023-01-12" }
         ]
       }
     },
