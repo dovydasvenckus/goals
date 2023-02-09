@@ -8,7 +8,10 @@
         "itemCountToComplete": 1000000000,
         "entries": [
           { "value": "Mangal Men", "date": "2023-01-05" },
-          { "value": "1771", "date": "2023-01-12" }
+          { "value": "1771", "date": "2023-01-12" },
+          { "value": "Petra", "date": "2023-01-26" },
+          { "value": "Jammi", "date": "2023-02-02" },
+          { "value": "Kebabinė Nr1", "date": "2023-02-09" }
         ]
       }
     },
@@ -19,7 +22,7 @@
         "from": 80,
         "to": 77,
         "entries": [
-          { "value": 80.1, "date": "2023-01-02" }
+          { "value": 80.1, "date": "2023-01-02" },
         ]
       }
     }
