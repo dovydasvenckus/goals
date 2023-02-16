@@ -11,7 +11,9 @@
           { "value": "1771", "date": "2023-01-12" },
           { "value": "Petra", "date": "2023-01-26" },
           { "value": "Jammi", "date": "2023-02-02" },
-          { "value": "Kebabinė Nr1", "date": "2023-02-09" }
+          { "value": "Kebabinė Nr1", "date": "2023-02-09" },
+          { "value": "Güzel by Sinan", "date": "2023-02-14" },
+          { "value": "Güzel by Sinan", "date": "2023-02-16" }
         ]
       }
     },
@@ -23,6 +25,7 @@
         "to": 77,
         "entries": [
           { "value": 80.1, "date": "2023-01-02" },
+          { "value": 81.6, "date": "2023-01-02" }
         ]
       }
     }
