@@ -41,7 +41,10 @@
           { "value": "Jammi", "date": "2023-07-27" },
           { "value": "Jammi", "date": "2023-07-30" },
           { "value": "Kebab & Curry", "date": "2023-08-03" },
-          { "value": "Turkish kebab center", "date": "2023-08-24" }
+          { "value": "Turkish kebab center", "date": "2023-08-24" },
+          { "value": "Helen restoranas", "date": "2023-08-31" },
+          { "value": "Helen restoranas", "date": "2023-09-05" },
+          { "value": "Mekan Döner", "date": "2023-09-07" }
         ]
       }
     },
@@ -55,7 +58,8 @@
           { "value": 80.1, "date": "2023-01-02" },
           { "value": 81.6, "date": "2023-01-02" },
           { "value": 82.4, "date": "2023-03-14" },
-          { "value": 80.85, "date": "2023-04-14" }
+          { "value": 80.85, "date": "2023-04-14" },
+          { "value": 84.0, "date": "2023-09-07" }
         ]
       }
     }
