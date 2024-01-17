@@ -1,0 +1,29 @@
+{
+  "title": "2024 Goals",
+  "goals": [
+    {
+      "name": "Eat 1,000,000,000 kebabs 🥙",
+      "type": "COMPLETE_N_ITEMS",
+      "data": {
+        "itemCountToComplete": 1000000000,
+        "entries": [
+          { "value": "Jammi", "date": "2024-01-04" },
+          { "value": "Azerai", "date": "2024-01-11" },
+          { "value": "Azerai", "date": "2024-01-16" },
+          { "value": "Jammi", "date": "2024-01-18" }
+        ]
+      }
+    },
+    {
+      "name": "Lose weight 87 -> 77",
+      "type": "REACH_NUMBER",
+      "data": {
+        "from": 87,
+        "to": 77,
+        "entries": [
+          { "value": 87.0, "date": "2024-01-01" }
+        ]
+      }
+    }
+  ]
+}
