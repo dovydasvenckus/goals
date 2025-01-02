@@ -1,0 +1,26 @@
+{
+  "title": "2024 Goals",
+  "goals": [
+    {
+      "name": "Team kebabs 🥙",
+      "type": "COMPLETE_N_ITEMS",
+      "data": {
+        "itemCountToComplete": 50,
+        "entries": [
+          
+        ]
+      }
+    },
+    {
+      "name": "Lose weight 85 -> 77",
+      "type": "REACH_NUMBER",
+      "data": {
+        "from": 87,
+        "to": 77,
+        "entries": [
+          { "value": 85.0, "date": "2025-01-01" }
+        ]
+      }
+    }
+  ]
+}
