@@ -15,7 +15,7 @@
       "name": "Lose weight 85 -> 77",
       "type": "REACH_NUMBER",
       "data": {
-        "from": 87,
+        "from": 85,
         "to": 77,
         "entries": [
           { "value": 85.0, "date": "2025-01-01" }
