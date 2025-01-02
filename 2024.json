@@ -2,14 +2,13 @@
   "title": "2024 Goals",
   "goals": [
     {
-      "name": "Eat 1,000,000,000 kebabs 🥙",
+      "name": "Team kebabs 🥙",
       "type": "COMPLETE_N_ITEMS",
       "data": {
         "itemCountToComplete": 1000000000,
         "entries": [
           { "value": "Jammi", "date": "2024-01-04" },
           { "value": "Azerai", "date": "2024-01-11" },
-          { "value": "Azerai", "date": "2024-01-16" },
           { "value": "Jammi", "date": "2024-01-18" },
           { "value": "Wraperia", "date": "2024-01-25" },
           { "value": "Jammi", "date": "2024-02-01" },
@@ -24,7 +23,25 @@
           { "value": "Petra", "date": "2024-04-11" },
           { "value": "Kebab N Curry", "date": "2024-04-18" },
           { "value": "Jammi", "date": "2024-04-25" },
-          { "value": "Mangal King", "date": "2024-05-02" }
+          { "value": "Mangal King", "date": "2024-05-02" },
+          { "value": "Mangal King", "date": "2024-05-09" },
+          { "value": "Azerai", "date": "2024-05-16" },
+          { "value": "Azerai", "date": "2024-05-23" },
+          { "value": "Azerai", "date": "2024-06-06" },
+          { "value": "Azerai", "date": "2024-07-04" },
+          { "value": "Azerai", "date": "2024-09-12" },
+          { "value": "Shawarma by Petra", "date": "2024-09-25" },
+          { "value": "Azerai", "date": "2024-10-10" },
+          { "value": "Azerai", "date": "2024-10-16" },
+          { "value": "Azerai", "date": "2024-10-30" },
+          { "value": "Kebab N Curry", "date": "2024-11-06" },
+          { "value": "Petra", "date": "2024-11-07" },
+          { "value": "Shawarma by Petra", "date": "2024-11-13" },
+          { "value": "Petra", "date": "2024-11-18" },
+          { "value": "Shawarma by Petra", "date": "2024-11-20" },
+          { "value": "Wraperia", "date": "2024-11-27" },
+          { "value": "Wraperia", "date": "2024-12-07" },
+          { "value": "Azerai", "date": "2024-12-12" }
         ]
       }
     },
