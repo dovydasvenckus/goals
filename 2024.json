@@ -5,7 +5,7 @@
       "name": "Team kebabs 🥙",
       "type": "COMPLETE_N_ITEMS",
       "data": {
-        "itemCountToComplete": 1000000000,
+        "itemCountToComplete": 50,
         "entries": [
           { "value": "Jammi", "date": "2024-01-04" },
           { "value": "Azerai", "date": "2024-01-11" },
@@ -54,6 +54,7 @@
         "to": 77,
         "entries": [
           { "value": 87.0, "date": "2024-01-01" }
+          { "value": 85.0, "date": "2024-12-24" }
         ]
       }
     }
