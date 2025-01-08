@@ -7,18 +7,18 @@
       "data": {
         "itemCountToComplete": 50,
         "entries": [
-          
+           { "value": "Azerai", "date": "2025-01-08" }
         ]
       }
     },
     {
-      "name": "Lose weight 85 -> 77",
+      "name": "Lose weight 87 -> 77",
       "type": "REACH_NUMBER",
       "data": {
-        "from": 85,
+        "from": 87,
         "to": 77,
         "entries": [
-          { "value": 85.0, "date": "2025-01-01" }
+          { "value": 87.0, "date": "2025-01-01" }
         ]
       }
     }
