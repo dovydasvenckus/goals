@@ -1,0 +1,36 @@
+{
+  "title": "2026 Goals",
+  "goals": [
+    {
+      "name": "Kebabs 🥙",
+      "type": "COMPLETE_N_ITEMS",
+      "data": {
+        "itemCountToComplete": 50,
+        "entries": [
+        ]
+      }
+    },
+    {
+      "name": "Cycle 3000 km",
+      "type": "REACH_NUMBER",
+      "data": {
+        "from": 0,
+        "to": 3000,
+        "entries": [
+          { "value": 0, "date": "2026-01-01" }
+        ]
+      }
+    },
+    {
+      "name": "Lose weight 96 -> 80",
+      "type": "REACH_NUMBER",
+      "data": {
+        "from": 96,
+        "to": 80,
+        "entries": [
+          { "value": 96.0, "date": "2025-12-25" }
+        ]
+      }
+    }
+  ]
+}
